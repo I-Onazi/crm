@@ -1,1 +1,5 @@
-"vendor/ node modules/ .env storage/ bootstrap/cache/"
+/vendor
+.env 
+/storage
+/bootstrap/cache
+/node_modules
