@@ -174,7 +174,7 @@
     function removeElement(button) {
     let container = button.parentElement;
     container.remove();
-}
+    }
 
 </script>
 
